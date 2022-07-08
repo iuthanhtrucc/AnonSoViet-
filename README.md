@@ -1,1 +1,2 @@
 # AnonSoViet-
+clear
